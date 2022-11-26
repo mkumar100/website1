@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "@mui/material/Container";
 import ReactDOM from "react-dom";
-import { hashHistory as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 //import { BrowserRouter as Router,Routes,Route } from "react-router-dom";
 //hashHistory
 import Landing from "./pages/landing";
